@@ -37,19 +37,35 @@ Diff = A ⊕ B ⊕ Bin
 Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
+### Full Adder:
+![exp4 table add](https://github.com/Gobikakannan/FULL_ADDER_SUBTRACTOR/assets/163496346/e2f51537-bb3f-4f4e-babf-cae78102d327)
+### Full Subtractor:
+![exp4 table sub](https://github.com/Gobikakannan/FULL_ADDER_SUBTRACTOR/assets/163496346/acc3ff81-1e04-445d-af51-a6face6abde8)
 
-**Procedure**
+### Procedure:
+![procedure](https://github.com/Gobikakannan/FULL_ADDER_SUBTRACTOR/assets/163496346/49f41f2e-38a1-442a-b570-0397506ec359)
 
-Write the detailed procedure here
+
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+![exp4 code add](https://github.com/Gobikakannan/FULL_ADDER_SUBTRACTOR/assets/163496346/dd4855f7-1e40-49f7-91a8-32b0bcf86ce0)
+### Full Subtractor:
+![exp4 code sub](https://github.com/Gobikakannan/FULL_ADDER_SUBTRACTOR/assets/163496346/bf0c6d59-b6ed-4216-a36d-ffde91647c55)
+
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+Developed by:Gobika K
+RegisterNumber:212222050013
 */
 
 **RTL Schematic**
+![exp4 rtl add](https://github.com/Gobikakannan/FULL_ADDER_SUBTRACTOR/assets/163496346/31b3216b-0af3-484f-89e1-f7a895dfc651)
+### Full Subtractor:
+![exp4 rtl sub](https://github.com/Gobikakannan/FULL_ADDER_SUBTRACTOR/assets/163496346/707805ca-3569-458c-8036-63a2d60b5b4d)
 
 **Output Timing Waveform**
+![exp4 output add](https://github.com/Gobikakannan/FULL_ADDER_SUBTRACTOR/assets/163496346/64f1ced3-7ff6-4858-9712-e86151142328)
+![exp4 output sub](https://github.com/Gobikakannan/FULL_ADDER_SUBTRACTOR/assets/163496346/2afb681f-b9f8-4e6b-b161-13791c5602e1)
 
 **Result:**
 
